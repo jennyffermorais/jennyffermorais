@@ -17,6 +17,6 @@ Estou migrando da Advocacia para a área de TI e, estou cursando Análise e Dese
 👯Busco oportunidades de trabalho com desenvolvimento front-end.
 
  - 👇🏾Você também pode me encontrar aqui:
-	 - [Site/Portfólio](jennyffermorais.github.io)
+	 - [Site/Portfólio](https://jennyffermorais.github.io)
 	 - [LinkedIn](https://www.linkedin.com/in/jennyfferndemorais/)
 	 - [Twitter](https://twitter.com/Jennyffernm)
