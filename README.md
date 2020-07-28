@@ -5,12 +5,15 @@
 🙅🏾‍♀️**Meu nome é Jennyffer** 
 
 👩🏾‍💻**Eu sou Desenvolvedora Front-End Jr**
+
 👩🏾‍⚖️**E Advogada**
+
 🎮**E jogadora de World War Z**
 
 Estou migrando da Advocacia para a área de TI e, estou cursando Análise e Desenvolvimento de Sistemas.
 
 🌱Atualmente estou aprendendo JavaScript.
+
 👯Busco oportunidades de trabalho com desenvolvimento front-end.
 
  - 👇🏾Você também pode me encontrar aqui:
