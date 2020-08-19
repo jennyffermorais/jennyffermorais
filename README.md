@@ -12,9 +12,9 @@
 
 Estou migrando da Advocacia para a área de TI e, estou cursando Análise e Desenvolvimento de Sistemas.
 
-Em 2019 eu participei do projeto chamado {Reprograma}. Um projeto que ensina programação para mulheres e, eu amei aprender **Desenvolvimento Front End**. Como projeto final, desenvolvemos um site que conta a história de várias mulheres incríveis para a história e para o mundo.
+Em 2019 eu participei do projeto chamado {Reprograma}. Um projeto que ensina programação para mulheres e, eu amei aprender **Desenvolvimento Front End (HTML, CSS, JavaScript)**. 
 
-Agora faço parte da turma de **Desenvolvimento Back End** (NodeJS) da {Reprograma}. Além disso, eu estou me dedicando aos estudos de **React e Python**.
+Agora faço parte da turma de **Desenvolvimento Back End (NodeJS)** da {Reprograma}. Além disso, eu estou me dedicando aos estudos de **React e Python**.
 
  - 👇🏾Você também pode me encontrar aqui:
 	 - [Site/Portfólio](jennyffermorais.github.io)
