@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
 
-![my octacat](https://i.imgur.com/kg8pzGS.png)
+![my octacat](https://i.imgur.com/SaOKdmv.png)
 
 - 🔭 I’m currently working on **Grupo Parvi**
 
