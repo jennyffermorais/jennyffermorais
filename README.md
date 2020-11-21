@@ -2,7 +2,7 @@
 <h3 align="center">Advogada && Desenvolvedora (mas não só)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
-<p align="center"> <img src="https://imgur.com/a/8trH08M" alt="my octacat" /> </p>
+<p align="center"> <img src="https://i.imgur.com/25xpLDB.png" alt="my octacat" /> </p>
 
 - 🔭 Trabalhando atualmente no **Grupo Parvi**
 
