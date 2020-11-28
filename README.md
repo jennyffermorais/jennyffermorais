@@ -1,12 +1,12 @@
 <h1 align="center"> 👋🏾 Hello World!</h1>
-<h3 align="center">Advogada && Desenvolvedora </h3>
+<h3 align="center">Software Developer | React | NodeJS | Python</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
 <p align="center"> <img src="https://i.imgur.com/usW76i1.png" alt="my octacat" /> </p>
 
 - 🔭 Trabalhando atualmente no **Grupo Parvi**
 
-- 🌱 Estudando **Python, NodeJs e React**
+- 🌱 Em constante aprendizado de **Python, NodeJs e React**
 
 - 👨‍💻 Aqui tem alguns de meus projetos [https://jennyffermorais.github.io/](https://jennyffermorais.github.io/)
 - 💖 Pessoas, games, livros, doguinhos, música, dança, arte...
