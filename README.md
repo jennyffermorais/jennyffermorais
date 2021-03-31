@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
 <p align="center"> <img src="https://i.imgur.com/usW76i1.png" alt="my octacat" /> </p>
 
-- 🔭 Trabalhando atualmente na **Wavy Global**
+- 🔭 Trabalhando atualmente na **Sinch**
 
 - 🌱 Em constante aprendizado de **Python, NodeJs e React**
 
