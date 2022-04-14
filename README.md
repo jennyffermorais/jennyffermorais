@@ -6,9 +6,8 @@
 
 - 🔭 Trabalhando atualmente na **Sinch**
 
-- 🌱 Em constante aprendizado de **Python, NodeJs e React**
+- 🌱 Em constante aprendizado de **JavaScript (NodeJs e TypeScript)**
 
-- 👨‍💻 Aqui tem alguns de meus projetos [https://jennyffermorais.github.io/](https://jennyffermorais.github.io/)
 - 💖 Pessoas, games, livros, doguinhos, música, dança, arte...
 
 - 📫 Para me contatar:  **jnm.morais@gmail.com**
