@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
 <p align="center"> <img src="https://i.imgur.com/usW76i1.png" alt="my octacat" /> </p>
 
-- 🔭 Trabalhando atualmente na **Sinch**
+🔭 Atualmente atuando como Desenvolvedora de Software
 
-- 🌱 Em constante aprendizado de **JavaScript (NodeJs e TypeScript)**
+🌱 Em constante evolução com Node.js e PHP
 
-- 💖 Pessoas, games, livros, doguinhos, música, dança, arte...
+💖 Apaixonada por pessoas, games, livros, doguinhos, música, dança e arte
 
-- 📫 Para me contatar:  **jnm.morais@gmail.com**
+📫 Contato: jnm.morais@gmail.com
 
 <p align="center">
 <a href="https://linkedin.com/in/jennyfferndemorais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jennyfferndemorais" height="30" width="30" /></a>
