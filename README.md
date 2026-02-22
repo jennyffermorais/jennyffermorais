@@ -1,5 +1,5 @@
 <h1 align="center"> 👋🏾 Hello World!</h1>
-<h3 align="center">Software Developer | JavaScript (NodeJs e TypeScript)</h3>
+<h3 align="center">Desenvolvedora de Software | Node.js e PHP</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jennyffermorais" alt="jennyffermorais" /> </p>
 <p align="center"> <img src="https://i.imgur.com/usW76i1.png" alt="my octacat" /> </p>
